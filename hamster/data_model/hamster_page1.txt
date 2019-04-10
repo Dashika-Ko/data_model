@@ -1,7 +1,7 @@
 Hamster communication
 =====================
-[hamster.img]
+{[hamster.img]}
 
 *Hamster communication* це найбільша соціальна хом'якомережа у світі!
-login :
-password:
+Логін :
+Пароль:
